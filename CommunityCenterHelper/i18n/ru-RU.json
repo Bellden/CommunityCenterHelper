@@ -55,7 +55,7 @@
 	// Trees
 	"treeDuringSeason": "{{tree}}, {{season}}",
 	"tapTree": "Используйте {{tapper}} на {{tree}}",
-	"seedFromTree": "Стряхните или срубите {{tree}}",
+	"seedFromTree": "Потрясите или срубите {{tree}}",
 	
 	// Crafting/Cooking
 	"craftRecipeByName": "Изготовьте из {{recipe}}",
@@ -108,7 +108,7 @@
 	"goldenPumpkin": "лабиринт на День всех духов (Осень 27)",
 	"mermaidPearl": "из Ночного рынка (Зима 15-17), Лодка русалки{{hint}}",
 	"mermaidHint": " (1-5-4-2-3)", // included as hint for how to get the mermaid's pearl, if spoilers are allowed or secret note read
-	"winCraneGame": "Выиграйте из Игрового автомата Кинотеатра",
+	"winCraneGame": "Выиграйте в Игровом автомате Кинотеатра",
 	"voidEggEvent": "Случайное событие с ведьмой",
 	
 	// Concealed Source (for when entire suggestion is a spoiler)
@@ -228,7 +228,7 @@
 	"itemCategoryVegetable": "любой овощ",
 	"itemCategoryFruit": "любой фрукт",
 	"itemCategoryFlower": "любой цветок",
-	"itemCategoryWildSeed": "любое семена волокон", // category -777; not defined as a constant, but used for Tea Sapling recipe
+	"itemCategoryWildSeed": "любые семена из волокон", // category -777; not defined as a constant, but used for Tea Sapling recipe
 	"itemCategoryNut": "любой орех", // not a category strictly defined by base game, but used to summarize machine input
 	"itemCategoryMushroom": "любой гриб", // not a category strictly defined by base game, but used to summarize machine input
 	
@@ -281,7 +281,7 @@
 	"animalGoat": "от Козлов",
 	"animalSheep": "от Овец",
 	"animalRabbit": "от Кроликов",
-	"animalDuck": "от Утков",
+	"animalDuck": "от Уток",
 	"animalPig": "от Свиней",
 	
 	// Animal Building Requirements (advice on how to obtain animals, if not currently available to purchase)
@@ -307,7 +307,7 @@
 	"recipeSourceAfterGreenhouse": "починка теплицы",
 	"recipeSourceFinalFarmhouse": "последнее обновление дома фермы",
 	"recipeSourceAncientSeed": "пожертвуйте {{seedArtifact}} музею",
-	"recipeSourceRarecrows": "соберите всех редких пугал",
+	"recipeSourceRarecrows": "соберите все редкие пугала",
 	
 	// Recipe Ingredient Lists (for learned recipes)
 	"recipeIngredientSingle": "{{ingredient}}", // for ingredient x1
@@ -327,9 +327,9 @@
 	"statueOfPerfectionAvailable": "Дедушкин мемориал", // advice for statue if you've unlocked it, but haven't collected it
 	
 	// Conditional Mail
-	"conditionalMailAll": "после после {{time}} когда {{friendReq}} & {{skillReq}}",
-	"conditionalMailTimeFriend": "после после {{time}} с {{friendReq}}",
-	"conditionalMailTimeSkill": "после после {{time}}, требуется {{skillReq}}",
+	"conditionalMailAll": "почта после {{time}} когда {{friendReq}} & {{skillReq}}",
+	"conditionalMailTimeFriend": "почта после {{time}} с {{friendReq}}",
+	"conditionalMailTimeSkill": "почта после {{time}}, требуется {{skillReq}}",
 	"conditionalMailFriendSkill": "почта, когда с {{friendReq}} & {{skillReq}}",
 	"mailConditionFriendship": "{{hearts}} сердец с {{person}}",
 	
